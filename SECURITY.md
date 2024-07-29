@@ -27,22 +27,18 @@ Along with the report, please include the following info:
   please provide details.
 
 ### When Should I Report a Vulnerability?
-* You think you discovered a potential security vulnerability in oneMKL Interfaces.
-* You are unsure how the potential vulnerability affects oneMKL Interfaces.
-* You think you discovered a vulnerability in another project or 3rd party
-component on which oneMKL Interfaces depends. If the issue is not fixed in the 3rd party
-component, try to report directly there first.
+* You think you discovered a potential security vulnerability.
+* You are unsure how the potential vulnerability affects this repo.
 
 ### When Should I NOT Report a Vulnerability?
 * You got an automated scan hit and are unable to provide details.
-* You need help using oneMKL Interfaces for security.
 * You need help applying security-related updates.
 * Your issue is not security-related.
 
 ## Security Reports Review Process
 Our goal is to respond quickly to your inquiry, and to coordinate a fix and
 disclosure with you. All confirmed security vulnerabilities will be addressed
-according to severity level and impact on oneMKL Interfaces. Normally, security issues
+according to severity level and impact. Normally, security issues
 are fixed in the next planned release.
 
 ## Disclosure Policy
@@ -60,6 +56,6 @@ If you have any suggestions on how this Policy could be improved, please submit
 an issue or a pull request to this repository. Please **do not** report
 potential vulnerabilities or security flaws via a pull request.
 
-[1]: https://github.com/oneapi-src/oneMKL/releases/latest
-[2]: https://github.com/oneapi-src/oneMKL/security/advisories/new
-[3]: https://github.com/oneapi-src/oneMKL/security/advisories
+[1]: https://github.com/oneapi-src/oneapi-src.github.io/releases/latest
+[2]: https://github.com/oneapi-src/oneapi-src.github.io/security/advisories/new
+[3]: https://github.com/oneapi-src/oneapi-src.github.io/security/advisories
